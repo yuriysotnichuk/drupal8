@@ -1,0 +1,7 @@
+d8study.first_page:
+  path: 'd8study-contacts'
+  defaults:
+    _form: '\Drupal\d8study\Form\D8studyAjaxForm'
+    _title: 'Drupal 8 study-contacts'
+  requirements:
+    _permission: 'access content'

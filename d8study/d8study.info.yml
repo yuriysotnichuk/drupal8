@@ -1,0 +1,5 @@
+name: d8study
+description: my module
+core: 8.x
+type: module
+package: d8study
